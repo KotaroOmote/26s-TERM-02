@@ -1,0 +1,20 @@
+{
+  "out_dir": "/content/drive/MyDrive/vlm_ood_project/outputs/stats_figs_2026-02-16_v3",
+  "figures": [
+    "fig01_perf_ci_bar.png",
+    "fig02_roc_curves.png",
+    "fig03_pr_curves.png",
+    "fig04_score_distributions.png",
+    "fig05_zu_zc_scatter_boundary.png",
+    "fig06_zu_zc_density_contours.png",
+    "fig07_quadrant_errors.png",
+    "fig08_axis_loadings_heatmap.png",
+    "fig09_cv_heatmap_1se.png",
+    "fig10_effect_size_forest.png"
+  ],
+  "tables": [
+    "table_model_performance.csv",
+    "table_feature_significance.csv",
+    "table_quadrant_errors.csv"
+  ]
+}
