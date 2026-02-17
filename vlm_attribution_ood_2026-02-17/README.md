@@ -25,6 +25,7 @@
   - `colab_make_axis_figures.py`
   - `colab_make_statistics_figures.py`
 - `docs/`
+  - `end_to_end_flow_from_abc_request.md` (A/B/C提案から現在までの時系列)
   - `experiment_update_2026-02-17.md` (latest summary)
   - `experiment_update_2026-02-16.md` (previous summary)
   - `reproducibility_from_chat.md`
@@ -50,3 +51,4 @@
   - Across seeds (`42/43/44`), prompts (`a photo`, `a close-up photo`), models (`ViT-B-32`, `ViT-B-16`), axis cosine similarities were reported as `1.0`.
 
 See `docs/experiment_update_2026-02-17.md` for exact values.
+For full chronology, see `docs/end_to_end_flow_from_abc_request.md`.
